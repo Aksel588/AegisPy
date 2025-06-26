@@ -1,5 +1,26 @@
+# requirements.txt
+#
+# This file lists all Python package dependencies required to run your Aegispy project.
+#
+# Usage:
+#   - To install all dependencies, run:
+#       pip install -r requirements.txt
+#   - Add any additional packages your project needs, one per line.
+#
+# Example:
+#   fastapi
+#   uvicorn
+#   sqlalchemy
+#   python-dotenv
+#
+# Keep this file up to date as you add or remove dependencies from your project.
+
 fastapi
 uvicorn
 jinja2
 python-dotenv
 pydantic
+
+uvicorn
+fastapi
+jinja2

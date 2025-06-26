@@ -1,0 +1,7 @@
+# logs/app.log
+#
+# This file stores application logs for your Aegispy project.
+# Log entries are typically written here by your application for debugging and monitoring purposes.
+# You can configure your logging setup to write different types of logs to this file.
+#
+# Note: Log files are usually managed automatically and may be rotated or cleared as needed.
